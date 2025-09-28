@@ -1,3 +1,6 @@
 [submodule "countdna"]
 	path = countdna
 	url = github.com:qarls/countdna.git
+[submodule "dna_to_rna"]
+	path = dna_to_rna
+	url = github.com:qarls/dna_to_rna.git

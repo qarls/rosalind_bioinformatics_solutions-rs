@@ -5,7 +5,7 @@
 
 ## Intro
 
-This is my personal solutions to the problems found in [ROSALIND](rosalind.info)'s Bioinformatics Stronghold.
+This is my Rust solutions to the problems found in [ROSALIND](rosalind.info)'s Bioinformatics Stronghold.
 
 Rosalind itself is normally designed for Python learning,
 but figured this is a good way to challenge myself and learn Rust (at my current sluggish pace.)
@@ -15,9 +15,10 @@ you may open a **Discussions** page on this Github repo, I would love to see oth
 
 ## Challenges
 
-In order, the current solutions present.
+In order, the current challenges done.
 
-- DNA (countdna)
+- DNA [countdna](github.com/qarls/countdna)
+- RNA [dna_to_rna](github.com/qarls/dna_to_rna)
 
 ## Disclaimer
 
