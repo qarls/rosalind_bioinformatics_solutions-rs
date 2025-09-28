@@ -17,8 +17,8 @@ you may open a **Discussions** page on this Github repo, I would love to see oth
 
 In order, the current challenges done.
 
-- DNA [countdna](github.com/qarls/countdna)
-- RNA [dna_to_rna](github.com/qarls/dna_to_rna)
+- DNA: [countdna](github.com/qarls/countdna/tree/master)
+- RNA: [dna_to_rna](github.com/qarls/dna_to_rna/tree/master)
 
 ## Disclaimer
 
