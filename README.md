@@ -19,6 +19,7 @@ In order, the current challenges done.
 
 - DNA: [countdna](https://github.com/qarls/countdna/tree/master)
 - RNA: [dna_to_rna](https://github.com/qarls/dna_to_rna/tree/master)
+- REVC: [dna_complement](https://github.com/qarls/dna_complement/tree/master)
 
 ## Disclaimer
 
