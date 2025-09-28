@@ -5,7 +5,7 @@
 
 ## Intro
 
-This is my Rust solutions to the problems found in [ROSALIND](rosalind.info)'s Bioinformatics Stronghold.
+This is my Rust solutions to the problems found in [ROSALIND](https://rosalind.info)'s Bioinformatics Stronghold.
 
 Rosalind itself is normally designed for Python learning,
 but figured this is a good way to challenge myself and learn Rust (at my current sluggish pace.)
