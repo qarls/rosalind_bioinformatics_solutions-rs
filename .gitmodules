@@ -7,3 +7,6 @@
 [submodule "dna_complement"]
 	path = dna_complement
 	url = github.com:qarls/dna_complement.git
+[submodule "fib"]
+	path = fib
+	url = github.com:qarls/fib.git
