@@ -10,3 +10,9 @@
 [submodule "fib"]
 	path = fib
 	url = github.com:qarls/fib.git
+[submodule "gc"]
+	path = gc
+	url = github.com:qarls/gc.git
+[submodule "hamm"]
+	path = hamm
+	url = github.com:qarls/hamm.git

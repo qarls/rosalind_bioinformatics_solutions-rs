@@ -1,19 +1,18 @@
 # Rosalind Bioinformatics Stronghold - Personal Rust Solutions
->
-> date started: 2025-08-26
-> author: qarls
+- date started: 2025-08-26
+- author: qarls
 
-## Intro
+These are my Rust solutions to the problems found in [ROSALIND](https://rosalind.info)'s Bioinformatics Stronghold.
+Currently, all of my solutions use clap.rs (derive) to handle input, either using a file input or args (shelled via `$(cat test.txt)`.)
 
-This is my Rust solutions to the problems found in [ROSALIND](https://rosalind.info)'s Bioinformatics Stronghold.
-
-Rosalind itself is normally designed for Python learning,
-but figured this is a good way to challenge myself and learn Rust (at my current sluggish pace.)
+QC issues are to be expected,
+given these are my first set of coding challenges.
 
 If you'd like to discuss solutions,
-you may open a **Discussions** page on this Github repo, I would love to see others' solutions.
+you may open a **Discussions** page on this Github repo,
+I would love to hear thoughts and suggestions.
 
-## Challenges
+# Challenges
 
 In order, the current challenges done.
 
@@ -21,7 +20,9 @@ In order, the current challenges done.
 - RNA: [dna_to_rna](https://github.com/qarls/dna_to_rna/tree/master)
 - REVC: [dna_complement](https://github.com/qarls/dna_complement/tree/master)
 - FIB: [fib](https://github.com/qarls/fib/tree/master)
+- GC: [gc](https://github.com/qarls/gc/tree/master)
+- HAMM: [hamm](https://github.com/qarls/hamm/tree/master)
 
-## Disclaimer
+# Disclaimer
 
-I am not affliated with ROSALIND.
+I am not affiliated with ROSALIND.
